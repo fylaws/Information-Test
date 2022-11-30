@@ -1,2 +1,3 @@
 # Information-Test
-Testing
+This Repo contains textfiles and binaryfiles
+
