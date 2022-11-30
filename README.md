@@ -1,2 +1,2 @@
 # Information-Test
-Diese Datei enthält Textdateien und Binärdateien
+Dieses Repository enthält Textdateien und Binärdateien
