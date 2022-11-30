@@ -1,3 +1,2 @@
 # Information-Test
-This Repo contains textfiles and binaryfiles
-
+Diese Datei enthält Textdateien und Binärdateien
